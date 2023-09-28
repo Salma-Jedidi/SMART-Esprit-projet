@@ -1,0 +1,3 @@
+rkkzS 10 5 mouvement 15/58/59 7 etage1 BlocB
+uehe 20 10 mouvement 68463 4 etage2 NULL
+9uuu 100 50 mouvement 15/52/96 60 etage2 BlocA
